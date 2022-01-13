@@ -17,4 +17,4 @@
   
   <hr>
 
-*Meu objetivo está majoritariamente alinhado ao amadurecimento das minhas habilidades no Front-End, desenvolvendo conhecimento em HTML5, CSS3 (+ SCSS), JS (+ TypeScript) e React.* *
+*Meu objetivo está majoritariamente alinhado ao amadurecimento das minhas habilidades no Front-End, desenvolvendo conhecimento em HTML5, CSS3 (+ SCSS), JS (+ TypeScript) e React.* 
