@@ -1,4 +1,4 @@
-### 👋 *Olá, meu nome é Thiago Lisboa.*
+### 👋 *Olá, meu nome é Thiago.*
 <sub>Ou AtomicFeasT...</sub>
 
  <div>
