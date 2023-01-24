@@ -14,7 +14,18 @@
     <img align="center" alt="JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="TS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  </div>
-  
-  <hr>
+ 
+ <br>
+ 
+<div class="badges">
+ <a href="https://gitlab.com/ThiagoThalisson">
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
+ </a>
+ <a href="https://www.linkedin.com/in/thiago-thalisson-lisboa/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
+</div>
+
+<hr>
 
 *Meu objetivo está majoritariamente alinhado ao amadurecimento das minhas habilidades no Front-End, desenvolvendo conhecimento em HTML5, CSS3 (+ SCSS), JS (+ TypeScript) e React.* 
