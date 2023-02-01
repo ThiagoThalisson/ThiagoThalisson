@@ -1,5 +1,4 @@
 ### 👋 *Olá, meu nome é Thiago.*
-<sub>Ou AtomicFeasT...</sub>
 
  <div>
   <a href="https://github.com/ThiagoThalisson/"></a>
