@@ -19,7 +19,7 @@ I'm web developer who's interested in creating **solutions** to small business a
  </div>
 
 ## Highlighted Websites
-Projects made for real business and real people.
+Projects made for real businesses and real people.
 ### [🦐 `Le Petit Village`](https://lepetitvillage.com.br/)
 > A mobile-first african cuisine institucional page with motion design and more.
 ### [⚡ `VWO Soluções`](https://www.vwosolucoes.com/)
