@@ -17,6 +17,7 @@ I'm web developer who's interested in creating **solutions** to small business a
  <img align="center" alt="TailWindCSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
  <img align="center" alt="TS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  </div>
+ 
 ## Main Projects
 ### [🧬 `LPIS Template`](https://github.com/ThiagoThalisson/LPISTemplate)
 > A very overenginereed astro template to help when creating landing pages and institucional sites. 
