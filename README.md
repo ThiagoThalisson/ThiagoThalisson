@@ -17,6 +17,11 @@ I'm web developer who's interested in creating **solutions** to small business a
  <img align="center" alt="TailWindCSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
  <img align="center" alt="TS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  </div>
+## Main Projects
+### [🧬 `LPIS Template`](https://github.com/ThiagoThalisson/LPISTemplate)
+> A very overenginereed astro template to help when creating landing pages and institucional sites. 
+### [💎 `Atomic.Dotfiles`](https://gitlab.com/atfpersonalfiles/atomic.dotfiles)
+> Linux dotfiles for **arch** based systems created through a lot of research and foreign inspirations.
 
 ## Highlighted Websites
 Projects made for real businesses and real people.
@@ -31,10 +36,6 @@ Projects made to hone my skills in web design and web development.
 > A full fledged technical school institucional page. Made with [Vitor Gouveia](https://github.com/VitorGouveia) help.
 ### [🛡️ `Ituaçu Seguros`](https://ituacu-seguros.vercel.app/)
 > A insurance agency website with a personalized and dynamic insurance form. Made with [Vitor Gouveia](https://github.com/VitorGouveia) help.
-
-## More Projects
-### [💎 `Atomic.Dotfiles`](https://gitlab.com/atfpersonalfiles/atomic.dotfiles)
-> Linux dotfiles for **arch** based systems created through a lot of research and foreign inspirations.
 
 If you want to discuss about my projects or have questions, feel free to contact me through the channels below.
 
