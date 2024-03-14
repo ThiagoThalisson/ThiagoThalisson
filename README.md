@@ -41,4 +41,4 @@ Projects made to hone my skills in web design and web development.
 If you want to discuss about my projects or have questions, feel free to contact me through the channels below.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Thalisson-EF4444?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-thalisson-lisboa)](https://www.linkedin.com/in/thiago-thalisson-lisboa/)
-[![Gmail Badge](https://img.shields.io/badge/-contact--thiago--dev.byrro@slmail.me-EF4444?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago-thalisson-dev@proton.me)](mailto:thiago-thalisson-lisboa@proton.me)
+[![Gmail Badge](https://img.shields.io/badge/-thiago--dev--contato.system279@8alias.com-EF4444?style=flat-square&logo=Gmail&logoColor=white&link=thiago-dev-contato.system279@8alias.com)](mailto:thiago-dev-contato.system279@8alias.com)
