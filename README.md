@@ -1,6 +1,6 @@
-# 👋 *Olá, meu nome é Thiago.*
+# 👋 *Olá, Thiago aqui!*
 
-I'm web developer who's interested in creating **solutions** to small business and **people** in the web.
+Eh... Trying to build software now.
 
 <div>
  <a href="https://github.com/ThiagoThalisson/"></a>
@@ -28,8 +28,6 @@ I'm web developer who's interested in creating **solutions** to small business a
 Projects made for real businesses and real people.
 ### [🦐 `Le Petit Village`](https://lepetitvillage.com.br/)
 > A mobile-first african cuisine service website.
-### [⚡ `Ômega`]()
-> Work in progress.
 
 If you want to discuss about my projects or have questions, feel free to contact me through the channels below.
 
