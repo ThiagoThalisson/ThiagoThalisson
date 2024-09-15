@@ -1,23 +1,33 @@
 # 👋 *Olá, Thiago aqui!*
 
-Eh... Trying to build software now.
+> Eh... Trying to build software now.
 
-<div>
- <a href="https://github.com/ThiagoThalisson/"></a>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoThalisson&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoThalisson&layout=compact&langs_count=16&hide_border=true&theme=dark"/>
+<div align="center">
+ 
+   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoThalisson&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoThalisson&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<div style="display: inline"><br>
- <img align="center" alt="HTML5" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="CSS3" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/astro/astro-original.svg">
- <img align="center" alt="SASS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
- <img align="center" alt="TailWindCSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
- <img align="center" alt="TS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- </div>
+<details>
+<summary><h2>Front-End Skills</h2></summary>
  
+### Core
+<img align="center" alt="HTML5" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS3" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+### Styling
+<img align="center" alt="SASS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+<img align="center" alt="TailWindCSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+ 
+### Framework
+<img align="center" alt="Astro Framework" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/astro/astro-original.svg">
+
+### Superset
+<img align="center" alt="TS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+
+</details>
+
 ## Main Projects
 ### [🧬 `LPIS Template`](https://github.com/ThiagoThalisson/LPISTemplate)
 > A very overenginereed astro template to help when creating landing pages and institucional sites. 
