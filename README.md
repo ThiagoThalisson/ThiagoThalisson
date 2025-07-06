@@ -33,13 +33,14 @@
 
 <details>
 <summary><h3>Back-End</h3></summary>
-
-🤡 <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="NodeJS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
-#### Server Infrastructure
+<img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+#### Infrastructure
 <img align="center" alt="Nginx" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
 <img align="center" alt="Docker" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img align="center" alt="NixOS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg">
 </details>
 
 <details>
@@ -49,8 +50,19 @@
 </details>
 
 ## Main Projects
+### [⚜️ `Atomic.Server`](https://gitlab.com/atfpersonalfiles/atomic.server)
+> Infrastructure-as-Code for Small-Office/Home-office made in NixOS.
+
+### [🔖 `Atomic.NVF`](https://gitlab.com/atfpersonalfiles/atomic.nvf)
+> A neovim declarative custom configuration created using NVF. Can be used in any NixOS project.
+
+### [🤜🤛 `Atomic.Friends`](https://gitlab.com/atfpersonalfiles/atomic.friends)
+> A personalized desktop environment built using NixOS and it's ecosystem, made in the name of friendship.
+
 ### [💎 `Atomic.Dotfiles`](https://gitlab.com/atfpersonalfiles/atomic.dotfiles)
-> Linux dotfiles for **nixos** and **arch** based systems created through a lot of research and foreign inspirations.
+> Linux dotfiles for **nixos** systems created through a lot of research and foreign inspirations.
+
+
 ### [🧬 `LPIS Template`](https://github.com/ThiagoThalisson/LPISTemplate)
 > A very overenginereed astro template to help when creating landing pages and institucional sites. 
 
